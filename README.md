@@ -1,7 +1,7 @@
 # Encrypted-KeyGen
 
 Email-Encrypted-to-Key Generator
-This is a simple Python script and GUI built using the hashlib and tkinter libraries, respectively, that generates a 16-digit key based on an email address input.
+  This is a simple Python script and GUI built using the hashlib and tkinter libraries, respectively, that generates a 16-digit key based on an email address input.
 
 Features
   Accepts an email address input
